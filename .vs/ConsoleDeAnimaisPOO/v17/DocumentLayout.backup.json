@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN11\\source\\repos\\ConsoleDeAnimaisPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA7D0BB-D3F1-41D7-B4E5-024074328FB9}|ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO.csproj|c:\\users\\win11\\source\\repos\\consoledeanimaispoo\\consoledeanimaispoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA7D0BB-D3F1-41D7-B4E5-024074328FB9}|ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO.csproj|solutionrelative:consoledeanimaispoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA7D0BB-D3F1-41D7-B4E5-024074328FB9}|ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO.csproj|c:\\users\\win11\\source\\repos\\consoledeanimaispoo\\consoledeanimaispoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA7D0BB-D3F1-41D7-B4E5-024074328FB9}|ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO.csproj|solutionrelative:consoledeanimaispoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleDeAnimaisPOO\\Animal.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO\\Animal.cs*",
+              "RelativeToolTip": "ConsoleDeAnimaisPOO\\Animal.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:11:58.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11\\source\\repos\\ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleDeAnimaisPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN11\\source\\repos\\ConsoleDeAnimaisPOO\\ConsoleDeAnimaisPOO\\Program.cs",
+              "RelativeToolTip": "ConsoleDeAnimaisPOO\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:10:43.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

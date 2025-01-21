@@ -1,0 +1,4 @@
+C:\Users\WIN11\source\repos\ConsoleDeAnimaisPOO\ConsoleDeAnimaisPOO\obj\Debug\ControleDeAnimaisPOO.csproj.AssemblyReference.cache
+C:\Users\WIN11\source\repos\ConsoleDeAnimaisPOO\ConsoleDeAnimaisPOO\obj\Debug\ControleDeAnimaisPOO.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\ConsoleDeAnimaisPOO\ConsoleDeAnimaisPOO\obj\Debug\ConsoleDeAnimaisPOO.exe
+C:\Users\WIN11\source\repos\ConsoleDeAnimaisPOO\ConsoleDeAnimaisPOO\obj\Debug\ConsoleDeAnimaisPOO.pdb
